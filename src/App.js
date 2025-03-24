@@ -25,7 +25,7 @@ function App() {
         <Router>
           <div>
             <Navbar color="dark">
-              <NavbarBrand tag={Link} to="/">Digital Twin Sample</NavbarBrand>
+              <NavbarBrand tag={Link} to="/">Digital Twin Samples</NavbarBrand>
               <Nav className="ml-auto">
                 <NavItem color="white">
                   <NavLink tag={Link} to="/" className="text-light">Devices</NavLink>
