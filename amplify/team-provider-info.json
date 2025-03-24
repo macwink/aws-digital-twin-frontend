@@ -1,0 +1,15 @@
+{
+  "ref": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsdigitaltwinfronte-ref-81b7a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::727624724462:role/amplify-awsdigitaltwinfronte-ref-81b7a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::727624724462:role/amplify-awsdigitaltwinfronte-ref-81b7a-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsdigitaltwinfronte-ref-81b7a-deployment",
+      "UnauthRoleName": "amplify-awsdigitaltwinfronte-ref-81b7a-unauthRole",
+      "StackName": "amplify-awsdigitaltwinfronte-ref-81b7a",
+      "StackId": "arn:aws:cloudformation:eu-west-1:727624724462:stack/amplify-awsdigitaltwinfronte-ref-81b7a/e8cd64a0-0886-11f0-80e9-06f4d285a937",
+      "AmplifyAppId": "dj717ftc4yo00"
+    }
+  }
+}
